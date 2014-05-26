@@ -92,6 +92,7 @@ Class nextTransition()
 	[SceneManager go:layer];
 }
 
+// shop scene 기능
 //+(void) goShop
 //{
 //    // In APP 구매를 위한 코드임

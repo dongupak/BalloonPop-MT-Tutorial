@@ -11,6 +11,7 @@
 #import "cocos2d.h"
 
 // miss, perfect, correct 등의 메시지 정보를 보여주는 메시지 노드
+// message 라는 스트링 객체에 메시지를 전달할 수 있음
 @interface MessageNode : CCNode
 {
     NSString *message;

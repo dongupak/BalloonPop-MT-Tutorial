@@ -17,6 +17,7 @@
 
 @synthesize message, messageLabel, messageScale;
 
+// 메시지 폰트의 속성 정의
 - (CCFontDefinition *)messageFontDefinition
 {
     // 메시지 노드의 폰트 속성정의

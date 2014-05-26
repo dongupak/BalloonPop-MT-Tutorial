@@ -23,7 +23,7 @@
 +(void) goHowto;
 +(void) goGameOver;
 +(void) goLevelSelect;
-//+(void) goShop;
+//+(void) goShop;   // reserved for shop scene
 +(void) goCredit;
 
 @end
